@@ -47,5 +47,5 @@ This was my first project using tailwind CSS and so I'm getting more comfortable
 
 ## Author
 
-- Website - [Add your name here](https://ikennaezef.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ikennaezef)
+- Website - [My portfolio](https://ikennaezef.github.io/portfolio/)
+- Frontend Mentor - [ikennaezef](https://www.frontendmentor.io/profile/ikennaezef)
